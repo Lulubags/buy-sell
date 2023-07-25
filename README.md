@@ -1,0 +1,1 @@
+This is about a seller who is selling a surfboard. When the buyer deposits the correct amount into the seller's account he will receive the surfboards. If there is a dispute on either side a trusted mediator will intervene and decide the final outcome.
